@@ -1,7 +1,7 @@
-@use './abstracts/abstracts' as abs;
-@use './base/base' as bs;
-@use './components/components' as comp;
-@use './layout/layout' as lyt;
-@use './pages/pages' as pgs;
-@use './themes/themes' as thms;
-@use './vendors/vendors' as vds;
+@use './abstracts/abstracts';
+@use './base/base';
+@use './components/components';
+@use './layout/layout';
+@use './pages/pages';
+@use './themes/themes';
+@use './vendors/vendors';
